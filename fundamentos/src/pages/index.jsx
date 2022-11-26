@@ -16,6 +16,7 @@ export default function Home() {
             <Navegador texto="Navegação #02" destino="/cliente/rj-1/72" cor="green" />
             <Navegador texto="Componente com Estado" destino="/estado" cor="pink" />
             <Navegador texto="Integração com API #01" destino="/integracao_1" cor="#704f32" />
+            <Navegador texto="Conteudo Estático" destino="/estatico" cor="#542332" />
         </div>
     )
 }
